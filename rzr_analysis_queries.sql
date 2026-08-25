@@ -1,8 +1,3 @@
--- =============================================================================
--- RZR GLOBAL LEAD QUALITY ANALYTICS - SQL CASE STUDY REPOSITORY
--- Author: Candidate (Senior Growth / Media Analytics Analyst)
--- Database Dialect: Standard ANSI SQL (Compatible with PostgreSQL / BigQuery / Snowflake / SQL Server)
--- =============================================================================
 
 -- -----------------------------------------------------------------------------
 -- 0. SCHEMA & TABLE DEFINITIONS
